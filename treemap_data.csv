@@ -1,756 +1,756 @@
 parent,state_code,state,category,state_percentage,state_percentage_label
 "",All,All,origin,0,""
-origin,All,All,Education,0.0177,1.77%
-origin,All,All,Money,0.0593,5.93%
-origin,All,All,Legal,0.009,0.9%
-origin,All,All,Work,0.0075,0.75%
-origin,All,All,Health,0.0633,6.33%
-origin,All,All,Housing,0.1685,16.85%
-origin,All,All,Other,0.2949,29.49%
-origin,All,All,Postal,0.1566,15.66%
-origin,All,All,Goods,0.0381,3.81%
-origin,All,All,Food,0.1045,10.45%
-origin,All,All,Care,0.0425,4.25%
-origin,All,All,Transit,0.0381,3.81%
+origin,All,All,ABC,0.2949,29.49%
+origin,All,All,MNO,0.0633,6.33%
+origin,All,All,LMN,0.009,0.9%
+origin,All,All,GHI,0.0075,0.75%
+origin,All,All,CDE,0.0177,1.77%
+origin,All,All,BCD,0.0381,3.81%
+origin,All,All,EFG,0.0425,4.25%
+origin,All,All,DEF,0.1045,10.45%
+origin,All,All,IJK,0.1685,16.85%
+origin,All,All,FGH,0.1566,15.66%
+origin,All,All,JKL,0.0381,3.81%
+origin,All,All,KLM,0.0593,5.93%
 "",AK,Alaska,origin,0,""
-origin,AK,Alaska,Money,0.1038,10.38%
-origin,AK,Alaska,Health,0.1464,14.64%
-origin,AK,Alaska,Other,0.2207,22.07%
-origin,AK,Alaska,Education,0.0471,4.71%
-origin,AK,Alaska,Goods,0.0291,2.91%
-origin,AK,Alaska,Legal,0.018,1.8%
-origin,AK,Alaska,Food,0.0727,7.27%
-origin,AK,Alaska,Work,0.0055,0.55%
-origin,AK,Alaska,Care,0.1276,12.76%
-origin,AK,Alaska,Postal,0.0738,7.38%
-origin,AK,Alaska,Housing,0.0813,8.13%
-origin,AK,Alaska,Transit,0.074,7.4%
+origin,AK,Alaska,IJK,0.0813,8.13%
+origin,AK,Alaska,GHI,0.0055,0.55%
+origin,AK,Alaska,FGH,0.0738,7.38%
+origin,AK,Alaska,MNO,0.1464,14.64%
+origin,AK,Alaska,EFG,0.1276,12.76%
+origin,AK,Alaska,DEF,0.0727,7.27%
+origin,AK,Alaska,ABC,0.2207,22.07%
+origin,AK,Alaska,CDE,0.0471,4.71%
+origin,AK,Alaska,KLM,0.1038,10.38%
+origin,AK,Alaska,BCD,0.074,7.4%
+origin,AK,Alaska,JKL,0.0291,2.91%
+origin,AK,Alaska,LMN,0.018,1.8%
 "",AL,Alabama,origin,0,""
-origin,AL,Alabama,Food,0.1175,11.75%
-origin,AL,Alabama,Goods,0.0283,2.83%
-origin,AL,Alabama,Care,0.0454,4.54%
-origin,AL,Alabama,Health,0.0721,7.21%
-origin,AL,Alabama,Education,0.014,1.4%
-origin,AL,Alabama,Transit,0.0499,4.99%
-origin,AL,Alabama,Work,0.0048,0.48%
-origin,AL,Alabama,Postal,0.1452,14.52%
-origin,AL,Alabama,Other,0.2527,25.27%
-origin,AL,Alabama,Money,0.0726,7.26%
-origin,AL,Alabama,Housing,0.1901,19.01%
-origin,AL,Alabama,Legal,0.0076,0.76%
+origin,AL,Alabama,FGH,0.1452,14.52%
+origin,AL,Alabama,JKL,0.0283,2.83%
+origin,AL,Alabama,ABC,0.2527,25.27%
+origin,AL,Alabama,CDE,0.014,1.4%
+origin,AL,Alabama,KLM,0.0726,7.26%
+origin,AL,Alabama,BCD,0.0499,4.99%
+origin,AL,Alabama,LMN,0.0076,0.76%
+origin,AL,Alabama,EFG,0.0454,4.54%
+origin,AL,Alabama,IJK,0.1901,19.01%
+origin,AL,Alabama,DEF,0.1175,11.75%
+origin,AL,Alabama,GHI,0.0048,0.48%
+origin,AL,Alabama,MNO,0.0721,7.21%
 "",AR,Arkansas,origin,0,""
-origin,AR,Arkansas,Legal,0.0083,0.83%
-origin,AR,Arkansas,Money,0.0684,6.84%
-origin,AR,Arkansas,Goods,0.0309,3.09%
-origin,AR,Arkansas,Education,0.014,1.4%
-origin,AR,Arkansas,Food,0.1229,12.29%
-origin,AR,Arkansas,Care,0.0418,4.18%
-origin,AR,Arkansas,Health,0.0651,6.51%
-origin,AR,Arkansas,Transit,0.0404,4.04%
-origin,AR,Arkansas,Housing,0.1756,17.56%
-origin,AR,Arkansas,Postal,0.1443,14.43%
-origin,AR,Arkansas,Other,0.2836,28.36%
-origin,AR,Arkansas,Work,0.0049,0.49%
+origin,AR,Arkansas,LMN,0.0083,0.83%
+origin,AR,Arkansas,BCD,0.0404,4.04%
+origin,AR,Arkansas,JKL,0.0309,3.09%
+origin,AR,Arkansas,GHI,0.0049,0.49%
+origin,AR,Arkansas,DEF,0.1229,12.29%
+origin,AR,Arkansas,EFG,0.0418,4.18%
+origin,AR,Arkansas,ABC,0.2836,28.36%
+origin,AR,Arkansas,CDE,0.014,1.4%
+origin,AR,Arkansas,IJK,0.1756,17.56%
+origin,AR,Arkansas,MNO,0.0651,6.51%
+origin,AR,Arkansas,FGH,0.1443,14.43%
+origin,AR,Arkansas,KLM,0.0684,6.84%
 "",AS,American Samoa,origin,0,""
-origin,AS,American Samoa,Transit,0.0083,0.83%
-origin,AS,American Samoa,Health,0.0333,3.33%
-origin,AS,American Samoa,Education,0.025,2.5%
-origin,AS,American Samoa,Food,0.0667,6.67%
-origin,AS,American Samoa,Money,0.1,10%
-origin,AS,American Samoa,Postal,0.4833,48.33%
-origin,AS,American Samoa,Other,0.025,2.5%
-origin,AS,American Samoa,Goods,0.025,2.5%
-origin,AS,American Samoa,Work,0.0333,3.33%
-origin,AS,American Samoa,Housing,0.2,20%
+origin,AS,American Samoa,FGH,0.4833,48.33%
+origin,AS,American Samoa,DEF,0.0667,6.67%
+origin,AS,American Samoa,KLM,0.1,10%
+origin,AS,American Samoa,JKL,0.025,2.5%
+origin,AS,American Samoa,BCD,0.0083,0.83%
+origin,AS,American Samoa,GHI,0.0333,3.33%
+origin,AS,American Samoa,IJK,0.2,20%
+origin,AS,American Samoa,ABC,0.025,2.5%
+origin,AS,American Samoa,MNO,0.0333,3.33%
+origin,AS,American Samoa,CDE,0.025,2.5%
 "",AZ,Arizona,origin,0,""
-origin,AZ,Arizona,Other,0.3224,32.24%
-origin,AZ,Arizona,Postal,0.1294,12.94%
-origin,AZ,Arizona,Housing,0.1681,16.81%
-origin,AZ,Arizona,Work,0.0066,0.66%
-origin,AZ,Arizona,Health,0.0632,6.32%
-origin,AZ,Arizona,Care,0.0481,4.81%
-origin,AZ,Arizona,Education,0.0154,1.54%
-origin,AZ,Arizona,Legal,0.0094,0.94%
-origin,AZ,Arizona,Goods,0.0387,3.87%
-origin,AZ,Arizona,Food,0.092,9.2%
-origin,AZ,Arizona,Transit,0.0451,4.51%
-origin,AZ,Arizona,Money,0.0616,6.16%
+origin,AZ,Arizona,JKL,0.0387,3.87%
+origin,AZ,Arizona,KLM,0.0616,6.16%
+origin,AZ,Arizona,ABC,0.3224,32.24%
+origin,AZ,Arizona,GHI,0.0066,0.66%
+origin,AZ,Arizona,CDE,0.0154,1.54%
+origin,AZ,Arizona,DEF,0.092,9.2%
+origin,AZ,Arizona,MNO,0.0632,6.32%
+origin,AZ,Arizona,FGH,0.1294,12.94%
+origin,AZ,Arizona,LMN,0.0094,0.94%
+origin,AZ,Arizona,BCD,0.0451,4.51%
+origin,AZ,Arizona,IJK,0.1681,16.81%
+origin,AZ,Arizona,EFG,0.0481,4.81%
 "",CA,California,origin,0,""
-origin,CA,California,Care,0.0436,4.36%
-origin,CA,California,Health,0.0546,5.46%
-origin,CA,California,Housing,0.166,16.6%
-origin,CA,California,Work,0.0083,0.83%
-origin,CA,California,Transit,0.0333,3.33%
-origin,CA,California,Postal,0.1335,13.35%
-origin,CA,California,Money,0.0536,5.36%
-origin,CA,California,Education,0.0181,1.81%
-origin,CA,California,Goods,0.0373,3.73%
-origin,CA,California,Food,0.1091,10.91%
-origin,CA,California,Legal,0.0109,1.09%
-origin,CA,California,Other,0.3316,33.16%
+origin,CA,California,EFG,0.0436,4.36%
+origin,CA,California,KLM,0.0536,5.36%
+origin,CA,California,FGH,0.1335,13.35%
+origin,CA,California,DEF,0.1091,10.91%
+origin,CA,California,ABC,0.3316,33.16%
+origin,CA,California,JKL,0.0373,3.73%
+origin,CA,California,CDE,0.0181,1.81%
+origin,CA,California,GHI,0.0083,0.83%
+origin,CA,California,IJK,0.166,16.6%
+origin,CA,California,BCD,0.0333,3.33%
+origin,CA,California,MNO,0.0546,5.46%
+origin,CA,California,LMN,0.0109,1.09%
 "",CO,Colorado,origin,0,""
-origin,CO,Colorado,Housing,0.18,18%
-origin,CO,Colorado,Health,0.0662,6.62%
-origin,CO,Colorado,Work,0.0075,0.75%
-origin,CO,Colorado,Other,0.2725,27.25%
-origin,CO,Colorado,Legal,0.0115,1.15%
-origin,CO,Colorado,Money,0.0637,6.37%
-origin,CO,Colorado,Transit,0.0412,4.12%
-origin,CO,Colorado,Education,0.0207,2.07%
-origin,CO,Colorado,Goods,0.0394,3.94%
-origin,CO,Colorado,Care,0.0454,4.54%
-origin,CO,Colorado,Postal,0.1626,16.26%
-origin,CO,Colorado,Food,0.0893,8.93%
+origin,CO,Colorado,EFG,0.0454,4.54%
+origin,CO,Colorado,JKL,0.0394,3.94%
+origin,CO,Colorado,BCD,0.0412,4.12%
+origin,CO,Colorado,MNO,0.0662,6.62%
+origin,CO,Colorado,LMN,0.0115,1.15%
+origin,CO,Colorado,DEF,0.0893,8.93%
+origin,CO,Colorado,FGH,0.1626,16.26%
+origin,CO,Colorado,IJK,0.18,18%
+origin,CO,Colorado,KLM,0.0637,6.37%
+origin,CO,Colorado,GHI,0.0075,0.75%
+origin,CO,Colorado,ABC,0.2725,27.25%
+origin,CO,Colorado,CDE,0.0207,2.07%
 "",CT,Connecticut,origin,0,""
-origin,CT,Connecticut,Care,0.0618,6.18%
-origin,CT,Connecticut,Food,0.0952,9.52%
-origin,CT,Connecticut,Housing,0.1578,15.78%
-origin,CT,Connecticut,Postal,0.1363,13.63%
-origin,CT,Connecticut,Transit,0.0419,4.19%
-origin,CT,Connecticut,Education,0.0274,2.74%
-origin,CT,Connecticut,Money,0.0696,6.96%
-origin,CT,Connecticut,Health,0.0845,8.45%
-origin,CT,Connecticut,Goods,0.0395,3.95%
-origin,CT,Connecticut,Other,0.2678,26.78%
-origin,CT,Connecticut,Work,0.0077,0.77%
-origin,CT,Connecticut,Legal,0.0105,1.05%
+origin,CT,Connecticut,MNO,0.0845,8.45%
+origin,CT,Connecticut,CDE,0.0274,2.74%
+origin,CT,Connecticut,JKL,0.0395,3.95%
+origin,CT,Connecticut,GHI,0.0077,0.77%
+origin,CT,Connecticut,DEF,0.0952,9.52%
+origin,CT,Connecticut,LMN,0.0105,1.05%
+origin,CT,Connecticut,KLM,0.0696,6.96%
+origin,CT,Connecticut,ABC,0.2678,26.78%
+origin,CT,Connecticut,IJK,0.1578,15.78%
+origin,CT,Connecticut,FGH,0.1363,13.63%
+origin,CT,Connecticut,EFG,0.0618,6.18%
+origin,CT,Connecticut,BCD,0.0419,4.19%
 "",DC,District of Columbia,origin,0,""
-origin,DC,District of Columbia,Health,0.0524,5.24%
-origin,DC,District of Columbia,Goods,0.0548,5.48%
-origin,DC,District of Columbia,Food,0.0819,8.19%
-origin,DC,District of Columbia,Other,0.3531,35.31%
-origin,DC,District of Columbia,Money,0.0731,7.31%
-origin,DC,District of Columbia,Legal,0.0071,0.71%
-origin,DC,District of Columbia,Housing,0.135,13.5%
-origin,DC,District of Columbia,Care,0.0271,2.71%
-origin,DC,District of Columbia,Education,0.014,1.4%
-origin,DC,District of Columbia,Work,0.0125,1.25%
-origin,DC,District of Columbia,Postal,0.1605,16.05%
-origin,DC,District of Columbia,Transit,0.0285,2.85%
+origin,DC,District of Columbia,LMN,0.0071,0.71%
+origin,DC,District of Columbia,ABC,0.3531,35.31%
+origin,DC,District of Columbia,IJK,0.135,13.5%
+origin,DC,District of Columbia,GHI,0.0125,1.25%
+origin,DC,District of Columbia,EFG,0.0271,2.71%
+origin,DC,District of Columbia,DEF,0.0819,8.19%
+origin,DC,District of Columbia,FGH,0.1605,16.05%
+origin,DC,District of Columbia,BCD,0.0285,2.85%
+origin,DC,District of Columbia,MNO,0.0524,5.24%
+origin,DC,District of Columbia,JKL,0.0548,5.48%
+origin,DC,District of Columbia,CDE,0.014,1.4%
+origin,DC,District of Columbia,KLM,0.0731,7.31%
 "",DE,Delaware,origin,0,""
-origin,DE,Delaware,Food,0.1027,10.27%
-origin,DE,Delaware,Work,0.0097,0.97%
-origin,DE,Delaware,Education,0.022,2.2%
-origin,DE,Delaware,Money,0.064,6.4%
-origin,DE,Delaware,Legal,0.0094,0.94%
-origin,DE,Delaware,Goods,0.0396,3.96%
-origin,DE,Delaware,Other,0.2597,25.97%
-origin,DE,Delaware,Housing,0.1679,16.79%
-origin,DE,Delaware,Care,0.0544,5.44%
-origin,DE,Delaware,Transit,0.0349,3.49%
-origin,DE,Delaware,Health,0.0838,8.38%
-origin,DE,Delaware,Postal,0.1518,15.18%
+origin,DE,Delaware,FGH,0.1518,15.18%
+origin,DE,Delaware,CDE,0.022,2.2%
+origin,DE,Delaware,MNO,0.0838,8.38%
+origin,DE,Delaware,LMN,0.0094,0.94%
+origin,DE,Delaware,IJK,0.1679,16.79%
+origin,DE,Delaware,KLM,0.064,6.4%
+origin,DE,Delaware,GHI,0.0097,0.97%
+origin,DE,Delaware,BCD,0.0349,3.49%
+origin,DE,Delaware,ABC,0.2597,25.97%
+origin,DE,Delaware,JKL,0.0396,3.96%
+origin,DE,Delaware,EFG,0.0544,5.44%
+origin,DE,Delaware,DEF,0.1027,10.27%
 "",FL,Florida,origin,0,""
-origin,FL,Florida,Food,0.1207,12.07%
-origin,FL,Florida,Goods,0.0292,2.92%
-origin,FL,Florida,Legal,0.0078,0.78%
-origin,FL,Florida,Housing,0.1899,18.99%
-origin,FL,Florida,Work,0.0082,0.82%
-origin,FL,Florida,Care,0.0339,3.39%
-origin,FL,Florida,Other,0.2813,28.13%
-origin,FL,Florida,Transit,0.0348,3.48%
-origin,FL,Florida,Education,0.0144,1.44%
-origin,FL,Florida,Money,0.0505,5.05%
-origin,FL,Florida,Postal,0.1764,17.64%
-origin,FL,Florida,Health,0.0528,5.28%
+origin,FL,Florida,EFG,0.0339,3.39%
+origin,FL,Florida,KLM,0.0505,5.05%
+origin,FL,Florida,JKL,0.0292,2.92%
+origin,FL,Florida,IJK,0.1899,18.99%
+origin,FL,Florida,MNO,0.0528,5.28%
+origin,FL,Florida,FGH,0.1764,17.64%
+origin,FL,Florida,BCD,0.0348,3.48%
+origin,FL,Florida,GHI,0.0082,0.82%
+origin,FL,Florida,ABC,0.2813,28.13%
+origin,FL,Florida,DEF,0.1207,12.07%
+origin,FL,Florida,CDE,0.0144,1.44%
+origin,FL,Florida,LMN,0.0078,0.78%
 "",FM,Federated States of Micronesia,origin,0,""
-origin,FM,Federated States of Micronesia,Other,0.3158,31.58%
-origin,FM,Federated States of Micronesia,Health,0.2632,26.32%
-origin,FM,Federated States of Micronesia,Work,0.0526,5.26%
-origin,FM,Federated States of Micronesia,Goods,0.1053,10.53%
-origin,FM,Federated States of Micronesia,Food,0.0526,5.26%
-origin,FM,Federated States of Micronesia,Postal,0.2105,21.05%
+origin,FM,Federated States of Micronesia,FGH,0.2105,21.05%
+origin,FM,Federated States of Micronesia,DEF,0.0526,5.26%
+origin,FM,Federated States of Micronesia,GHI,0.0526,5.26%
+origin,FM,Federated States of Micronesia,JKL,0.1053,10.53%
+origin,FM,Federated States of Micronesia,MNO,0.2632,26.32%
+origin,FM,Federated States of Micronesia,ABC,0.3158,31.58%
 "",GA,Georgia,origin,0,""
-origin,GA,Georgia,Health,0.0571,5.71%
-origin,GA,Georgia,Other,0.268,26.8%
-origin,GA,Georgia,Work,0.0092,0.92%
-origin,GA,Georgia,Postal,0.1813,18.13%
-origin,GA,Georgia,Transit,0.0369,3.69%
-origin,GA,Georgia,Education,0.0141,1.41%
-origin,GA,Georgia,Money,0.0608,6.08%
-origin,GA,Georgia,Housing,0.2066,20.66%
-origin,GA,Georgia,Food,0.1029,10.29%
-origin,GA,Georgia,Legal,0.0071,0.71%
-origin,GA,Georgia,Care,0.0292,2.92%
-origin,GA,Georgia,Goods,0.0269,2.69%
+origin,GA,Georgia,EFG,0.0292,2.92%
+origin,GA,Georgia,GHI,0.0092,0.92%
+origin,GA,Georgia,JKL,0.0269,2.69%
+origin,GA,Georgia,CDE,0.0141,1.41%
+origin,GA,Georgia,KLM,0.0608,6.08%
+origin,GA,Georgia,MNO,0.0571,5.71%
+origin,GA,Georgia,IJK,0.2066,20.66%
+origin,GA,Georgia,FGH,0.1813,18.13%
+origin,GA,Georgia,ABC,0.268,26.8%
+origin,GA,Georgia,LMN,0.0071,0.71%
+origin,GA,Georgia,DEF,0.1029,10.29%
+origin,GA,Georgia,BCD,0.0369,3.69%
 "",GU,Guam,origin,0,""
-origin,GU,Guam,Money,0.1115,11.15%
-origin,GU,Guam,Postal,0.2166,21.66%
-origin,GU,Guam,Education,0.0101,1.01%
-origin,GU,Guam,Work,0.0052,0.52%
-origin,GU,Guam,Food,0.0658,6.58%
-origin,GU,Guam,Care,0.0146,1.46%
-origin,GU,Guam,Goods,0.0155,1.55%
-origin,GU,Guam,Other,0.3001,30.01%
-origin,GU,Guam,Legal,0.0061,0.61%
-origin,GU,Guam,Housing,0.1901,19.01%
-origin,GU,Guam,Health,0.0396,3.96%
-origin,GU,Guam,Transit,0.0247,2.47%
+origin,GU,Guam,DEF,0.0658,6.58%
+origin,GU,Guam,MNO,0.0396,3.96%
+origin,GU,Guam,ABC,0.3001,30.01%
+origin,GU,Guam,FGH,0.2166,21.66%
+origin,GU,Guam,BCD,0.0247,2.47%
+origin,GU,Guam,LMN,0.0061,0.61%
+origin,GU,Guam,GHI,0.0052,0.52%
+origin,GU,Guam,IJK,0.1901,19.01%
+origin,GU,Guam,EFG,0.0146,1.46%
+origin,GU,Guam,KLM,0.1115,11.15%
+origin,GU,Guam,CDE,0.0101,1.01%
+origin,GU,Guam,JKL,0.0155,1.55%
 "",HI,Hawaii,origin,0,""
-origin,HI,Hawaii,Education,0.0333,3.33%
-origin,HI,Hawaii,Food,0.1128,11.28%
-origin,HI,Hawaii,Work,0.0056,0.56%
-origin,HI,Hawaii,Care,0.0828,8.28%
-origin,HI,Hawaii,Other,0.278,27.8%
-origin,HI,Hawaii,Postal,0.1117,11.17%
-origin,HI,Hawaii,Housing,0.1273,12.73%
-origin,HI,Hawaii,Money,0.0799,7.99%
-origin,HI,Hawaii,Transit,0.0301,3.01%
-origin,HI,Hawaii,Health,0.1006,10.06%
-origin,HI,Hawaii,Goods,0.0264,2.64%
-origin,HI,Hawaii,Legal,0.0117,1.17%
+origin,HI,Hawaii,LMN,0.0117,1.17%
+origin,HI,Hawaii,MNO,0.1006,10.06%
+origin,HI,Hawaii,IJK,0.1273,12.73%
+origin,HI,Hawaii,JKL,0.0264,2.64%
+origin,HI,Hawaii,BCD,0.0301,3.01%
+origin,HI,Hawaii,KLM,0.0799,7.99%
+origin,HI,Hawaii,EFG,0.0828,8.28%
+origin,HI,Hawaii,ABC,0.278,27.8%
+origin,HI,Hawaii,DEF,0.1128,11.28%
+origin,HI,Hawaii,FGH,0.1117,11.17%
+origin,HI,Hawaii,CDE,0.0333,3.33%
+origin,HI,Hawaii,GHI,0.0056,0.56%
 "",IA,Iowa,origin,0,""
-origin,IA,Iowa,Food,0.1019,10.19%
-origin,IA,Iowa,Housing,0.1475,14.75%
-origin,IA,Iowa,Legal,0.0092,0.92%
-origin,IA,Iowa,Health,0.0713,7.13%
-origin,IA,Iowa,Care,0.0519,5.19%
-origin,IA,Iowa,Goods,0.0461,4.61%
-origin,IA,Iowa,Other,0.285,28.5%
-origin,IA,Iowa,Work,0.0054,0.54%
-origin,IA,Iowa,Postal,0.1487,14.87%
-origin,IA,Iowa,Transit,0.0451,4.51%
-origin,IA,Iowa,Education,0.0176,1.76%
-origin,IA,Iowa,Money,0.0705,7.05%
+origin,IA,Iowa,DEF,0.1019,10.19%
+origin,IA,Iowa,FGH,0.1487,14.87%
+origin,IA,Iowa,ABC,0.285,28.5%
+origin,IA,Iowa,BCD,0.0451,4.51%
+origin,IA,Iowa,JKL,0.0461,4.61%
+origin,IA,Iowa,GHI,0.0054,0.54%
+origin,IA,Iowa,CDE,0.0176,1.76%
+origin,IA,Iowa,KLM,0.0705,7.05%
+origin,IA,Iowa,EFG,0.0519,5.19%
+origin,IA,Iowa,LMN,0.0092,0.92%
+origin,IA,Iowa,MNO,0.0713,7.13%
+origin,IA,Iowa,IJK,0.1475,14.75%
 "",ID,Idaho,origin,0,""
-origin,ID,Idaho,Health,0.0942,9.42%
-origin,ID,Idaho,Food,0.0874,8.74%
-origin,ID,Idaho,Care,0.0643,6.43%
-origin,ID,Idaho,Postal,0.117,11.7%
-origin,ID,Idaho,Legal,0.013,1.3%
-origin,ID,Idaho,Work,0.0062,0.62%
-origin,ID,Idaho,Housing,0.1544,15.44%
-origin,ID,Idaho,Education,0.0244,2.44%
-origin,ID,Idaho,Goods,0.0365,3.65%
-origin,ID,Idaho,Money,0.0701,7.01%
-origin,ID,Idaho,Transit,0.0373,3.73%
-origin,ID,Idaho,Other,0.295,29.5%
+origin,ID,Idaho,IJK,0.1544,15.44%
+origin,ID,Idaho,FGH,0.117,11.7%
+origin,ID,Idaho,DEF,0.0874,8.74%
+origin,ID,Idaho,ABC,0.295,29.5%
+origin,ID,Idaho,LMN,0.013,1.3%
+origin,ID,Idaho,EFG,0.0643,6.43%
+origin,ID,Idaho,BCD,0.0373,3.73%
+origin,ID,Idaho,KLM,0.0701,7.01%
+origin,ID,Idaho,CDE,0.0244,2.44%
+origin,ID,Idaho,MNO,0.0942,9.42%
+origin,ID,Idaho,JKL,0.0365,3.65%
+origin,ID,Idaho,GHI,0.0062,0.62%
 "",IL,Illinois,origin,0,""
-origin,IL,Illinois,Money,0.0551,5.51%
-origin,IL,Illinois,Care,0.0469,4.69%
-origin,IL,Illinois,Postal,0.1494,14.94%
-origin,IL,Illinois,Other,0.3059,30.59%
-origin,IL,Illinois,Education,0.0191,1.91%
-origin,IL,Illinois,Work,0.0091,0.91%
-origin,IL,Illinois,Food,0.0912,9.12%
-origin,IL,Illinois,Goods,0.0417,4.17%
-origin,IL,Illinois,Housing,0.1642,16.42%
-origin,IL,Illinois,Legal,0.0092,0.92%
-origin,IL,Illinois,Transit,0.0402,4.02%
-origin,IL,Illinois,Health,0.068,6.8%
+origin,IL,Illinois,IJK,0.1642,16.42%
+origin,IL,Illinois,BCD,0.0402,4.02%
+origin,IL,Illinois,KLM,0.0551,5.51%
+origin,IL,Illinois,FGH,0.1494,14.94%
+origin,IL,Illinois,EFG,0.0469,4.69%
+origin,IL,Illinois,GHI,0.0091,0.91%
+origin,IL,Illinois,ABC,0.3059,30.59%
+origin,IL,Illinois,DEF,0.0912,9.12%
+origin,IL,Illinois,LMN,0.0092,0.92%
+origin,IL,Illinois,CDE,0.0191,1.91%
+origin,IL,Illinois,JKL,0.0417,4.17%
+origin,IL,Illinois,MNO,0.068,6.8%
 "",IN,Indiana,origin,0,""
-origin,IN,Indiana,Health,0.0659,6.59%
-origin,IN,Indiana,Transit,0.0349,3.49%
-origin,IN,Indiana,Postal,0.184,18.4%
-origin,IN,Indiana,Food,0.1059,10.59%
-origin,IN,Indiana,Goods,0.0428,4.28%
-origin,IN,Indiana,Housing,0.1619,16.19%
-origin,IN,Indiana,Legal,0.0092,0.92%
-origin,IN,Indiana,Work,0.0078,0.78%
-origin,IN,Indiana,Money,0.0578,5.78%
-origin,IN,Indiana,Education,0.0154,1.54%
-origin,IN,Indiana,Care,0.0376,3.76%
-origin,IN,Indiana,Other,0.2768,27.68%
+origin,IN,Indiana,ABC,0.2768,27.68%
+origin,IN,Indiana,CDE,0.0154,1.54%
+origin,IN,Indiana,EFG,0.0376,3.76%
+origin,IN,Indiana,JKL,0.0428,4.28%
+origin,IN,Indiana,FGH,0.184,18.4%
+origin,IN,Indiana,GHI,0.0078,0.78%
+origin,IN,Indiana,LMN,0.0092,0.92%
+origin,IN,Indiana,DEF,0.1059,10.59%
+origin,IN,Indiana,IJK,0.1619,16.19%
+origin,IN,Indiana,MNO,0.0659,6.59%
+origin,IN,Indiana,KLM,0.0578,5.78%
+origin,IN,Indiana,BCD,0.0349,3.49%
 "",KS,Kansas,origin,0,""
-origin,KS,Kansas,Money,0.0702,7.02%
-origin,KS,Kansas,Other,0.2703,27.03%
-origin,KS,Kansas,Food,0.0843,8.43%
-origin,KS,Kansas,Postal,0.2093,20.93%
-origin,KS,Kansas,Care,0.0523,5.23%
-origin,KS,Kansas,Health,0.0719,7.19%
-origin,KS,Kansas,Housing,0.136,13.6%
-origin,KS,Kansas,Education,0.0166,1.66%
-origin,KS,Kansas,Work,0.0051,0.51%
-origin,KS,Kansas,Legal,0.0098,0.98%
-origin,KS,Kansas,Transit,0.0329,3.29%
-origin,KS,Kansas,Goods,0.0413,4.13%
+origin,KS,Kansas,DEF,0.0843,8.43%
+origin,KS,Kansas,FGH,0.2093,20.93%
+origin,KS,Kansas,GHI,0.0051,0.51%
+origin,KS,Kansas,KLM,0.0702,7.02%
+origin,KS,Kansas,IJK,0.136,13.6%
+origin,KS,Kansas,BCD,0.0329,3.29%
+origin,KS,Kansas,EFG,0.0523,5.23%
+origin,KS,Kansas,MNO,0.0719,7.19%
+origin,KS,Kansas,LMN,0.0098,0.98%
+origin,KS,Kansas,JKL,0.0413,4.13%
+origin,KS,Kansas,CDE,0.0166,1.66%
+origin,KS,Kansas,ABC,0.2703,27.03%
 "",KY,Kentucky,origin,0,""
-origin,KY,Kentucky,Health,0.0607,6.07%
-origin,KY,Kentucky,Postal,0.1347,13.47%
-origin,KY,Kentucky,Other,0.2755,27.55%
-origin,KY,Kentucky,Care,0.0422,4.22%
-origin,KY,Kentucky,Transit,0.0435,4.35%
-origin,KY,Kentucky,Work,0.0065,0.65%
-origin,KY,Kentucky,Money,0.0749,7.49%
-origin,KY,Kentucky,Education,0.0122,1.22%
-origin,KY,Kentucky,Housing,0.1815,18.15%
-origin,KY,Kentucky,Food,0.1157,11.57%
-origin,KY,Kentucky,Legal,0.0076,0.76%
-origin,KY,Kentucky,Goods,0.0447,4.47%
+origin,KY,Kentucky,ABC,0.2755,27.55%
+origin,KY,Kentucky,DEF,0.1157,11.57%
+origin,KY,Kentucky,JKL,0.0447,4.47%
+origin,KY,Kentucky,LMN,0.0076,0.76%
+origin,KY,Kentucky,BCD,0.0435,4.35%
+origin,KY,Kentucky,EFG,0.0422,4.22%
+origin,KY,Kentucky,CDE,0.0122,1.22%
+origin,KY,Kentucky,MNO,0.0607,6.07%
+origin,KY,Kentucky,FGH,0.1347,13.47%
+origin,KY,Kentucky,KLM,0.0749,7.49%
+origin,KY,Kentucky,GHI,0.0065,0.65%
+origin,KY,Kentucky,IJK,0.1815,18.15%
 "",LA,Louisiana,origin,0,""
-origin,LA,Louisiana,Work,0.0061,0.61%
-origin,LA,Louisiana,Education,0.0138,1.38%
-origin,LA,Louisiana,Legal,0.0074,0.74%
-origin,LA,Louisiana,Housing,0.189,18.9%
-origin,LA,Louisiana,Health,0.064,6.4%
-origin,LA,Louisiana,Care,0.0376,3.76%
-origin,LA,Louisiana,Money,0.0602,6.02%
-origin,LA,Louisiana,Postal,0.1694,16.94%
-origin,LA,Louisiana,Goods,0.0282,2.82%
-origin,LA,Louisiana,Other,0.2898,28.98%
-origin,LA,Louisiana,Food,0.0983,9.83%
-origin,LA,Louisiana,Transit,0.0363,3.63%
+origin,LA,Louisiana,DEF,0.0983,9.83%
+origin,LA,Louisiana,IJK,0.189,18.9%
+origin,LA,Louisiana,MNO,0.064,6.4%
+origin,LA,Louisiana,LMN,0.0074,0.74%
+origin,LA,Louisiana,EFG,0.0376,3.76%
+origin,LA,Louisiana,BCD,0.0363,3.63%
+origin,LA,Louisiana,GHI,0.0061,0.61%
+origin,LA,Louisiana,JKL,0.0282,2.82%
+origin,LA,Louisiana,FGH,0.1694,16.94%
+origin,LA,Louisiana,ABC,0.2898,28.98%
+origin,LA,Louisiana,KLM,0.0602,6.02%
+origin,LA,Louisiana,CDE,0.0138,1.38%
 "",MA,Massachusetts,origin,0,""
-origin,MA,Massachusetts,Goods,0.0469,4.69%
-origin,MA,Massachusetts,Health,0.062,6.2%
-origin,MA,Massachusetts,Money,0.0436,4.36%
-origin,MA,Massachusetts,Housing,0.1232,12.32%
-origin,MA,Massachusetts,Education,0.0308,3.08%
-origin,MA,Massachusetts,Other,0.432,43.2%
-origin,MA,Massachusetts,Food,0.0698,6.98%
-origin,MA,Massachusetts,Transit,0.0238,2.38%
-origin,MA,Massachusetts,Care,0.0505,5.05%
-origin,MA,Massachusetts,Work,0.0092,0.92%
-origin,MA,Massachusetts,Legal,0.0115,1.15%
-origin,MA,Massachusetts,Postal,0.0967,9.67%
+origin,MA,Massachusetts,MNO,0.062,6.2%
+origin,MA,Massachusetts,LMN,0.0115,1.15%
+origin,MA,Massachusetts,KLM,0.0436,4.36%
+origin,MA,Massachusetts,IJK,0.1232,12.32%
+origin,MA,Massachusetts,EFG,0.0505,5.05%
+origin,MA,Massachusetts,JKL,0.0469,4.69%
+origin,MA,Massachusetts,FGH,0.0967,9.67%
+origin,MA,Massachusetts,GHI,0.0092,0.92%
+origin,MA,Massachusetts,BCD,0.0238,2.38%
+origin,MA,Massachusetts,DEF,0.0698,6.98%
+origin,MA,Massachusetts,ABC,0.432,43.2%
+origin,MA,Massachusetts,CDE,0.0308,3.08%
 "",MD,Maryland,origin,0,""
-origin,MD,Maryland,Work,0.009,0.9%
-origin,MD,Maryland,Health,0.0629,6.29%
-origin,MD,Maryland,Other,0.2793,27.93%
-origin,MD,Maryland,Care,0.0379,3.79%
-origin,MD,Maryland,Transit,0.0305,3.05%
-origin,MD,Maryland,Housing,0.1481,14.81%
-origin,MD,Maryland,Food,0.1001,10.01%
-origin,MD,Maryland,Postal,0.2166,21.66%
-origin,MD,Maryland,Education,0.0223,2.23%
-origin,MD,Maryland,Goods,0.0367,3.67%
-origin,MD,Maryland,Money,0.0482,4.82%
-origin,MD,Maryland,Legal,0.0083,0.83%
+origin,MD,Maryland,GHI,0.009,0.9%
+origin,MD,Maryland,DEF,0.1001,10.01%
+origin,MD,Maryland,CDE,0.0223,2.23%
+origin,MD,Maryland,ABC,0.2793,27.93%
+origin,MD,Maryland,IJK,0.1481,14.81%
+origin,MD,Maryland,LMN,0.0083,0.83%
+origin,MD,Maryland,FGH,0.2166,21.66%
+origin,MD,Maryland,BCD,0.0305,3.05%
+origin,MD,Maryland,KLM,0.0482,4.82%
+origin,MD,Maryland,MNO,0.0629,6.29%
+origin,MD,Maryland,EFG,0.0379,3.79%
+origin,MD,Maryland,JKL,0.0367,3.67%
 "",ME,Maine,origin,0,""
-origin,ME,Maine,Postal,0.1791,17.91%
-origin,ME,Maine,Transit,0.0356,3.56%
-origin,ME,Maine,Other,0.2693,26.93%
-origin,ME,Maine,Legal,0.0119,1.19%
-origin,ME,Maine,Housing,0.1064,10.64%
-origin,ME,Maine,Goods,0.0315,3.15%
-origin,ME,Maine,Food,0.0847,8.47%
-origin,ME,Maine,Money,0.0639,6.39%
-origin,ME,Maine,Health,0.1084,10.84%
-origin,ME,Maine,Care,0.0777,7.77%
-origin,ME,Maine,Education,0.0269,2.69%
-origin,ME,Maine,Work,0.0046,0.46%
+origin,ME,Maine,JKL,0.0315,3.15%
+origin,ME,Maine,CDE,0.0269,2.69%
+origin,ME,Maine,LMN,0.0119,1.19%
+origin,ME,Maine,GHI,0.0046,0.46%
+origin,ME,Maine,MNO,0.1084,10.84%
+origin,ME,Maine,ABC,0.2693,26.93%
+origin,ME,Maine,IJK,0.1064,10.64%
+origin,ME,Maine,BCD,0.0356,3.56%
+origin,ME,Maine,FGH,0.1791,17.91%
+origin,ME,Maine,DEF,0.0847,8.47%
+origin,ME,Maine,EFG,0.0777,7.77%
+origin,ME,Maine,KLM,0.0639,6.39%
 "",MH,Marshall Islands,origin,0,""
-origin,MH,Marshall Islands,Other,0.0667,6.67%
-origin,MH,Marshall Islands,Care,0.6,60%
-origin,MH,Marshall Islands,Postal,0.2667,26.67%
-origin,MH,Marshall Islands,Food,0.0667,6.67%
+origin,MH,Marshall Islands,ABC,0.0667,6.67%
+origin,MH,Marshall Islands,EFG,0.6,60%
+origin,MH,Marshall Islands,DEF,0.0667,6.67%
+origin,MH,Marshall Islands,FGH,0.2667,26.67%
 "",MI,Michigan,origin,0,""
-origin,MI,Michigan,Health,0.0537,5.37%
-origin,MI,Michigan,Education,0.0163,1.63%
-origin,MI,Michigan,Food,0.12,12%
-origin,MI,Michigan,Goods,0.0469,4.69%
-origin,MI,Michigan,Transit,0.0453,4.53%
-origin,MI,Michigan,Legal,0.0071,0.71%
-origin,MI,Michigan,Postal,0.1448,14.48%
-origin,MI,Michigan,Housing,0.1622,16.22%
-origin,MI,Michigan,Other,0.2905,29.05%
-origin,MI,Michigan,Care,0.0536,5.36%
-origin,MI,Michigan,Work,0.0055,0.55%
-origin,MI,Michigan,Money,0.054,5.4%
+origin,MI,Michigan,IJK,0.1622,16.22%
+origin,MI,Michigan,JKL,0.0469,4.69%
+origin,MI,Michigan,CDE,0.0163,1.63%
+origin,MI,Michigan,FGH,0.1448,14.48%
+origin,MI,Michigan,DEF,0.12,12%
+origin,MI,Michigan,MNO,0.0537,5.37%
+origin,MI,Michigan,EFG,0.0536,5.36%
+origin,MI,Michigan,LMN,0.0071,0.71%
+origin,MI,Michigan,ABC,0.2905,29.05%
+origin,MI,Michigan,KLM,0.054,5.4%
+origin,MI,Michigan,GHI,0.0055,0.55%
+origin,MI,Michigan,BCD,0.0453,4.53%
 "",MN,Minnesota,origin,0,""
-origin,MN,Minnesota,Transit,0.0475,4.75%
-origin,MN,Minnesota,Education,0.0168,1.68%
-origin,MN,Minnesota,Postal,0.1425,14.25%
-origin,MN,Minnesota,Care,0.0512,5.12%
-origin,MN,Minnesota,Work,0.0057,0.57%
-origin,MN,Minnesota,Other,0.3033,30.33%
-origin,MN,Minnesota,Food,0.1042,10.42%
-origin,MN,Minnesota,Health,0.0623,6.23%
-origin,MN,Minnesota,Legal,0.0098,0.98%
-origin,MN,Minnesota,Housing,0.1417,14.17%
-origin,MN,Minnesota,Goods,0.0518,5.18%
-origin,MN,Minnesota,Money,0.0632,6.32%
+origin,MN,Minnesota,BCD,0.0475,4.75%
+origin,MN,Minnesota,IJK,0.1417,14.17%
+origin,MN,Minnesota,DEF,0.1042,10.42%
+origin,MN,Minnesota,KLM,0.0632,6.32%
+origin,MN,Minnesota,JKL,0.0518,5.18%
+origin,MN,Minnesota,LMN,0.0098,0.98%
+origin,MN,Minnesota,FGH,0.1425,14.25%
+origin,MN,Minnesota,ABC,0.3033,30.33%
+origin,MN,Minnesota,GHI,0.0057,0.57%
+origin,MN,Minnesota,MNO,0.0623,6.23%
+origin,MN,Minnesota,CDE,0.0168,1.68%
+origin,MN,Minnesota,EFG,0.0512,5.12%
 "",MO,Missouri,origin,0,""
-origin,MO,Missouri,Other,0.2947,29.47%
-origin,MO,Missouri,Care,0.0355,3.55%
-origin,MO,Missouri,Postal,0.2005,20.05%
-origin,MO,Missouri,Transit,0.0371,3.71%
-origin,MO,Missouri,Food,0.0918,9.18%
-origin,MO,Missouri,Work,0.0049,0.49%
-origin,MO,Missouri,Goods,0.0412,4.12%
-origin,MO,Missouri,Money,0.0552,5.52%
-origin,MO,Missouri,Health,0.0553,5.53%
-origin,MO,Missouri,Housing,0.1664,16.64%
-origin,MO,Missouri,Legal,0.0064,0.64%
-origin,MO,Missouri,Education,0.011,1.1%
+origin,MO,Missouri,MNO,0.0553,5.53%
+origin,MO,Missouri,FGH,0.2005,20.05%
+origin,MO,Missouri,IJK,0.1664,16.64%
+origin,MO,Missouri,ABC,0.2947,29.47%
+origin,MO,Missouri,DEF,0.0918,9.18%
+origin,MO,Missouri,GHI,0.0049,0.49%
+origin,MO,Missouri,JKL,0.0412,4.12%
+origin,MO,Missouri,CDE,0.011,1.1%
+origin,MO,Missouri,EFG,0.0355,3.55%
+origin,MO,Missouri,KLM,0.0552,5.52%
+origin,MO,Missouri,BCD,0.0371,3.71%
+origin,MO,Missouri,LMN,0.0064,0.64%
 "",MP,Northern Mariana Islands,origin,0,""
-origin,MP,Northern Mariana Islands,Education,0.0041,0.41%
-origin,MP,Northern Mariana Islands,Postal,0.3198,31.98%
-origin,MP,Northern Mariana Islands,Housing,0.2159,21.59%
-origin,MP,Northern Mariana Islands,Health,0.0855,8.55%
-origin,MP,Northern Mariana Islands,Other,0.1731,17.31%
-origin,MP,Northern Mariana Islands,Transit,0.0102,1.02%
-origin,MP,Northern Mariana Islands,Work,0.0122,1.22%
-origin,MP,Northern Mariana Islands,Food,0.055,5.5%
-origin,MP,Northern Mariana Islands,Money,0.1018,10.18%
-origin,MP,Northern Mariana Islands,Care,0.0081,0.81%
-origin,MP,Northern Mariana Islands,Legal,0.0061,0.61%
-origin,MP,Northern Mariana Islands,Goods,0.0081,0.81%
+origin,MP,Northern Mariana Islands,DEF,0.055,5.5%
+origin,MP,Northern Mariana Islands,JKL,0.0081,0.81%
+origin,MP,Northern Mariana Islands,EFG,0.0081,0.81%
+origin,MP,Northern Mariana Islands,LMN,0.0061,0.61%
+origin,MP,Northern Mariana Islands,BCD,0.0102,1.02%
+origin,MP,Northern Mariana Islands,KLM,0.1018,10.18%
+origin,MP,Northern Mariana Islands,FGH,0.3198,31.98%
+origin,MP,Northern Mariana Islands,CDE,0.0041,0.41%
+origin,MP,Northern Mariana Islands,IJK,0.2159,21.59%
+origin,MP,Northern Mariana Islands,GHI,0.0122,1.22%
+origin,MP,Northern Mariana Islands,MNO,0.0855,8.55%
+origin,MP,Northern Mariana Islands,ABC,0.1731,17.31%
 "",MS,Mississippi,origin,0,""
-origin,MS,Mississippi,Food,0.124,12.4%
-origin,MS,Mississippi,Work,0.0046,0.46%
-origin,MS,Mississippi,Legal,0.0074,0.74%
-origin,MS,Mississippi,Other,0.2546,25.46%
-origin,MS,Mississippi,Transit,0.0395,3.95%
-origin,MS,Mississippi,Education,0.0148,1.48%
-origin,MS,Mississippi,Health,0.0669,6.69%
-origin,MS,Mississippi,Postal,0.1578,15.78%
-origin,MS,Mississippi,Money,0.0694,6.94%
-origin,MS,Mississippi,Goods,0.0268,2.68%
-origin,MS,Mississippi,Housing,0.1929,19.29%
-origin,MS,Mississippi,Care,0.0413,4.13%
+origin,MS,Mississippi,MNO,0.0669,6.69%
+origin,MS,Mississippi,LMN,0.0074,0.74%
+origin,MS,Mississippi,GHI,0.0046,0.46%
+origin,MS,Mississippi,DEF,0.124,12.4%
+origin,MS,Mississippi,FGH,0.1578,15.78%
+origin,MS,Mississippi,BCD,0.0395,3.95%
+origin,MS,Mississippi,KLM,0.0694,6.94%
+origin,MS,Mississippi,CDE,0.0148,1.48%
+origin,MS,Mississippi,ABC,0.2546,25.46%
+origin,MS,Mississippi,EFG,0.0413,4.13%
+origin,MS,Mississippi,IJK,0.1929,19.29%
+origin,MS,Mississippi,JKL,0.0268,2.68%
 "",MT,Montana,origin,0,""
-origin,MT,Montana,Education,0.041,4.1%
-origin,MT,Montana,Other,0.1958,19.58%
-origin,MT,Montana,Care,0.1298,12.98%
-origin,MT,Montana,Money,0.129,12.9%
-origin,MT,Montana,Health,0.1411,14.11%
-origin,MT,Montana,Housing,0.1253,12.53%
-origin,MT,Montana,Food,0.0681,6.81%
-origin,MT,Montana,Legal,0.0192,1.92%
-origin,MT,Montana,Transit,0.0362,3.62%
-origin,MT,Montana,Postal,0.0817,8.17%
-origin,MT,Montana,Goods,0.0277,2.77%
-origin,MT,Montana,Work,0.0051,0.51%
+origin,MT,Montana,BCD,0.0362,3.62%
+origin,MT,Montana,ABC,0.1958,19.58%
+origin,MT,Montana,IJK,0.1253,12.53%
+origin,MT,Montana,JKL,0.0277,2.77%
+origin,MT,Montana,FGH,0.0817,8.17%
+origin,MT,Montana,MNO,0.1411,14.11%
+origin,MT,Montana,DEF,0.0681,6.81%
+origin,MT,Montana,EFG,0.1298,12.98%
+origin,MT,Montana,KLM,0.129,12.9%
+origin,MT,Montana,LMN,0.0192,1.92%
+origin,MT,Montana,GHI,0.0051,0.51%
+origin,MT,Montana,CDE,0.041,4.1%
 "",NC,North Carolina,origin,0,""
-origin,NC,North Carolina,Money,0.0607,6.07%
-origin,NC,North Carolina,Postal,0.1589,15.89%
-origin,NC,North Carolina,Transit,0.0412,4.12%
-origin,NC,North Carolina,Other,0.2861,28.61%
-origin,NC,North Carolina,Goods,0.0367,3.67%
-origin,NC,North Carolina,Legal,0.007,0.7%
-origin,NC,North Carolina,Housing,0.1897,18.97%
-origin,NC,North Carolina,Care,0.0372,3.72%
-origin,NC,North Carolina,Health,0.056,5.6%
-origin,NC,North Carolina,Work,0.0058,0.58%
-origin,NC,North Carolina,Food,0.1075,10.75%
-origin,NC,North Carolina,Education,0.0131,1.31%
+origin,NC,North Carolina,EFG,0.0372,3.72%
+origin,NC,North Carolina,LMN,0.007,0.7%
+origin,NC,North Carolina,GHI,0.0058,0.58%
+origin,NC,North Carolina,FGH,0.1589,15.89%
+origin,NC,North Carolina,IJK,0.1897,18.97%
+origin,NC,North Carolina,KLM,0.0607,6.07%
+origin,NC,North Carolina,CDE,0.0131,1.31%
+origin,NC,North Carolina,BCD,0.0412,4.12%
+origin,NC,North Carolina,MNO,0.056,5.6%
+origin,NC,North Carolina,JKL,0.0367,3.67%
+origin,NC,North Carolina,ABC,0.2861,28.61%
+origin,NC,North Carolina,DEF,0.1075,10.75%
 "",ND,North Dakota,origin,0,""
-origin,ND,North Dakota,Health,0.1247,12.47%
-origin,ND,North Dakota,Postal,0.0992,9.92%
-origin,ND,North Dakota,Education,0.0378,3.78%
-origin,ND,North Dakota,Other,0.2092,20.92%
-origin,ND,North Dakota,Food,0.0804,8.04%
-origin,ND,North Dakota,Legal,0.0189,1.89%
-origin,ND,North Dakota,Goods,0.0421,4.21%
-origin,ND,North Dakota,Transit,0.0358,3.58%
-origin,ND,North Dakota,Housing,0.1163,11.63%
-origin,ND,North Dakota,Care,0.1187,11.87%
-origin,ND,North Dakota,Money,0.1116,11.16%
-origin,ND,North Dakota,Work,0.0052,0.52%
+origin,ND,North Dakota,CDE,0.0378,3.78%
+origin,ND,North Dakota,ABC,0.2092,20.92%
+origin,ND,North Dakota,KLM,0.1116,11.16%
+origin,ND,North Dakota,BCD,0.0358,3.58%
+origin,ND,North Dakota,GHI,0.0052,0.52%
+origin,ND,North Dakota,IJK,0.1163,11.63%
+origin,ND,North Dakota,MNO,0.1247,12.47%
+origin,ND,North Dakota,LMN,0.0189,1.89%
+origin,ND,North Dakota,DEF,0.0804,8.04%
+origin,ND,North Dakota,EFG,0.1187,11.87%
+origin,ND,North Dakota,FGH,0.0992,9.92%
+origin,ND,North Dakota,JKL,0.0421,4.21%
 "",NE,Nebraska,origin,0,""
-origin,NE,Nebraska,Postal,0.139,13.9%
-origin,NE,Nebraska,Goods,0.0424,4.24%
-origin,NE,Nebraska,Education,0.021,2.1%
-origin,NE,Nebraska,Housing,0.1538,15.38%
-origin,NE,Nebraska,Legal,0.0101,1.01%
-origin,NE,Nebraska,Work,0.0074,0.74%
-origin,NE,Nebraska,Transit,0.0385,3.85%
-origin,NE,Nebraska,Food,0.1067,10.67%
-origin,NE,Nebraska,Health,0.0729,7.29%
-origin,NE,Nebraska,Money,0.0789,7.89%
-origin,NE,Nebraska,Other,0.2747,27.47%
-origin,NE,Nebraska,Care,0.0545,5.45%
+origin,NE,Nebraska,FGH,0.139,13.9%
+origin,NE,Nebraska,DEF,0.1067,10.67%
+origin,NE,Nebraska,MNO,0.0729,7.29%
+origin,NE,Nebraska,KLM,0.0789,7.89%
+origin,NE,Nebraska,ABC,0.2747,27.47%
+origin,NE,Nebraska,CDE,0.021,2.1%
+origin,NE,Nebraska,BCD,0.0385,3.85%
+origin,NE,Nebraska,JKL,0.0424,4.24%
+origin,NE,Nebraska,LMN,0.0101,1.01%
+origin,NE,Nebraska,IJK,0.1538,15.38%
+origin,NE,Nebraska,EFG,0.0545,5.45%
+origin,NE,Nebraska,GHI,0.0074,0.74%
 "",NH,New Hampshire,origin,0,""
-origin,NH,New Hampshire,Care,0.0998,9.98%
-origin,NH,New Hampshire,Work,0.0053,0.53%
-origin,NH,New Hampshire,Money,0.0853,8.53%
-origin,NH,New Hampshire,Housing,0.1153,11.53%
-origin,NH,New Hampshire,Postal,0.0809,8.09%
-origin,NH,New Hampshire,Food,0.092,9.2%
-origin,NH,New Hampshire,Transit,0.0407,4.07%
-origin,NH,New Hampshire,Health,0.1251,12.51%
-origin,NH,New Hampshire,Education,0.0365,3.65%
-origin,NH,New Hampshire,Other,0.2668,26.68%
-origin,NH,New Hampshire,Goods,0.0385,3.85%
-origin,NH,New Hampshire,Legal,0.0137,1.37%
+origin,NH,New Hampshire,FGH,0.0809,8.09%
+origin,NH,New Hampshire,MNO,0.1251,12.51%
+origin,NH,New Hampshire,BCD,0.0407,4.07%
+origin,NH,New Hampshire,GHI,0.0053,0.53%
+origin,NH,New Hampshire,EFG,0.0998,9.98%
+origin,NH,New Hampshire,IJK,0.1153,11.53%
+origin,NH,New Hampshire,DEF,0.092,9.2%
+origin,NH,New Hampshire,CDE,0.0365,3.65%
+origin,NH,New Hampshire,JKL,0.0385,3.85%
+origin,NH,New Hampshire,LMN,0.0137,1.37%
+origin,NH,New Hampshire,ABC,0.2668,26.68%
+origin,NH,New Hampshire,KLM,0.0853,8.53%
 "",NJ,New Jersey,origin,0,""
-origin,NJ,New Jersey,Money,0.0489,4.89%
-origin,NJ,New Jersey,Care,0.0439,4.39%
-origin,NJ,New Jersey,Health,0.0645,6.45%
-origin,NJ,New Jersey,Legal,0.01,1%
-origin,NJ,New Jersey,Education,0.0329,3.29%
-origin,NJ,New Jersey,Other,0.3281,32.81%
-origin,NJ,New Jersey,Food,0.0947,9.47%
-origin,NJ,New Jersey,Work,0.0082,0.82%
-origin,NJ,New Jersey,Transit,0.0328,3.28%
-origin,NJ,New Jersey,Housing,0.1476,14.76%
-origin,NJ,New Jersey,Postal,0.1544,15.44%
-origin,NJ,New Jersey,Goods,0.034,3.4%
+origin,NJ,New Jersey,ABC,0.3281,32.81%
+origin,NJ,New Jersey,BCD,0.0328,3.28%
+origin,NJ,New Jersey,IJK,0.1476,14.76%
+origin,NJ,New Jersey,KLM,0.0489,4.89%
+origin,NJ,New Jersey,EFG,0.0439,4.39%
+origin,NJ,New Jersey,DEF,0.0947,9.47%
+origin,NJ,New Jersey,CDE,0.0329,3.29%
+origin,NJ,New Jersey,LMN,0.01,1%
+origin,NJ,New Jersey,GHI,0.0082,0.82%
+origin,NJ,New Jersey,MNO,0.0645,6.45%
+origin,NJ,New Jersey,FGH,0.1544,15.44%
+origin,NJ,New Jersey,JKL,0.034,3.4%
 "",NM,New Mexico,origin,0,""
-origin,NM,New Mexico,Work,0.0066,0.66%
-origin,NM,New Mexico,Transit,0.0398,3.98%
-origin,NM,New Mexico,Care,0.0703,7.03%
-origin,NM,New Mexico,Health,0.0856,8.56%
-origin,NM,New Mexico,Education,0.0231,2.31%
-origin,NM,New Mexico,Goods,0.0391,3.91%
-origin,NM,New Mexico,Housing,0.165,16.5%
-origin,NM,New Mexico,Food,0.1003,10.03%
-origin,NM,New Mexico,Legal,0.0143,1.43%
-origin,NM,New Mexico,Other,0.2481,24.81%
-origin,NM,New Mexico,Postal,0.1075,10.75%
-origin,NM,New Mexico,Money,0.1003,10.03%
+origin,NM,New Mexico,EFG,0.0703,7.03%
+origin,NM,New Mexico,LMN,0.0143,1.43%
+origin,NM,New Mexico,BCD,0.0398,3.98%
+origin,NM,New Mexico,GHI,0.0066,0.66%
+origin,NM,New Mexico,JKL,0.0391,3.91%
+origin,NM,New Mexico,CDE,0.0231,2.31%
+origin,NM,New Mexico,MNO,0.0856,8.56%
+origin,NM,New Mexico,FGH,0.1075,10.75%
+origin,NM,New Mexico,DEF,0.1003,10.03%
+origin,NM,New Mexico,ABC,0.2481,24.81%
+origin,NM,New Mexico,KLM,0.1003,10.03%
+origin,NM,New Mexico,IJK,0.165,16.5%
 "",NV,Nevada,origin,0,""
-origin,NV,Nevada,Other,0.2627,26.27%
-origin,NV,Nevada,Housing,0.1548,15.48%
-origin,NV,Nevada,Goods,0.0366,3.66%
-origin,NV,Nevada,Work,0.0098,0.98%
-origin,NV,Nevada,Food,0.1181,11.81%
-origin,NV,Nevada,Legal,0.0107,1.07%
-origin,NV,Nevada,Transit,0.0511,5.11%
-origin,NV,Nevada,Health,0.0685,6.85%
-origin,NV,Nevada,Money,0.0712,7.12%
-origin,NV,Nevada,Care,0.052,5.2%
-origin,NV,Nevada,Postal,0.1475,14.75%
-origin,NV,Nevada,Education,0.0171,1.71%
+origin,NV,Nevada,DEF,0.1181,11.81%
+origin,NV,Nevada,GHI,0.0098,0.98%
+origin,NV,Nevada,LMN,0.0107,1.07%
+origin,NV,Nevada,FGH,0.1475,14.75%
+origin,NV,Nevada,MNO,0.0685,6.85%
+origin,NV,Nevada,BCD,0.0511,5.11%
+origin,NV,Nevada,EFG,0.052,5.2%
+origin,NV,Nevada,KLM,0.0712,7.12%
+origin,NV,Nevada,IJK,0.1548,15.48%
+origin,NV,Nevada,CDE,0.0171,1.71%
+origin,NV,Nevada,ABC,0.2627,26.27%
+origin,NV,Nevada,JKL,0.0366,3.66%
 "",NY,New York,origin,0,""
-origin,NY,New York,Money,0.0454,4.54%
-origin,NY,New York,Housing,0.1315,13.15%
-origin,NY,New York,Transit,0.0446,4.46%
-origin,NY,New York,Other,0.297,29.7%
-origin,NY,New York,Work,0.011,1.1%
-origin,NY,New York,Care,0.0364,3.64%
-origin,NY,New York,Legal,0.0106,1.06%
-origin,NY,New York,Postal,0.1643,16.43%
-origin,NY,New York,Health,0.0568,5.68%
-origin,NY,New York,Goods,0.0405,4.05%
-origin,NY,New York,Food,0.1391,13.91%
-origin,NY,New York,Education,0.023,2.3%
+origin,NY,New York,KLM,0.0454,4.54%
+origin,NY,New York,EFG,0.0364,3.64%
+origin,NY,New York,BCD,0.0446,4.46%
+origin,NY,New York,MNO,0.0568,5.68%
+origin,NY,New York,DEF,0.1391,13.91%
+origin,NY,New York,IJK,0.1315,13.15%
+origin,NY,New York,GHI,0.011,1.1%
+origin,NY,New York,CDE,0.023,2.3%
+origin,NY,New York,FGH,0.1643,16.43%
+origin,NY,New York,ABC,0.297,29.7%
+origin,NY,New York,JKL,0.0405,4.05%
+origin,NY,New York,LMN,0.0106,1.06%
 "",OH,Ohio,origin,0,""
-origin,OH,Ohio,Health,0.0636,6.36%
-origin,OH,Ohio,Postal,0.1541,15.41%
-origin,OH,Ohio,Money,0.063,6.3%
-origin,OH,Ohio,Care,0.0417,4.17%
-origin,OH,Ohio,Housing,0.1643,16.43%
-origin,OH,Ohio,Food,0.1113,11.13%
-origin,OH,Ohio,Work,0.0082,0.82%
-origin,OH,Ohio,Legal,0.009,0.9%
-origin,OH,Ohio,Other,0.2743,27.43%
-origin,OH,Ohio,Education,0.0159,1.59%
-origin,OH,Ohio,Transit,0.0442,4.42%
-origin,OH,Ohio,Goods,0.0504,5.04%
+origin,OH,Ohio,CDE,0.0159,1.59%
+origin,OH,Ohio,ABC,0.2743,27.43%
+origin,OH,Ohio,FGH,0.1541,15.41%
+origin,OH,Ohio,MNO,0.0636,6.36%
+origin,OH,Ohio,KLM,0.063,6.3%
+origin,OH,Ohio,IJK,0.1643,16.43%
+origin,OH,Ohio,GHI,0.0082,0.82%
+origin,OH,Ohio,DEF,0.1113,11.13%
+origin,OH,Ohio,JKL,0.0504,5.04%
+origin,OH,Ohio,BCD,0.0442,4.42%
+origin,OH,Ohio,EFG,0.0417,4.17%
+origin,OH,Ohio,LMN,0.009,0.9%
 "",OK,Oklahoma,origin,0,""
-origin,OK,Oklahoma,Care,0.0343,3.43%
-origin,OK,Oklahoma,Health,0.0532,5.32%
-origin,OK,Oklahoma,Postal,0.1398,13.98%
-origin,OK,Oklahoma,Education,0.0115,1.15%
-origin,OK,Oklahoma,Goods,0.0393,3.93%
-origin,OK,Oklahoma,Food,0.1083,10.83%
-origin,OK,Oklahoma,Money,0.0722,7.22%
-origin,OK,Oklahoma,Other,0.3113,31.13%
-origin,OK,Oklahoma,Transit,0.038,3.8%
-origin,OK,Oklahoma,Housing,0.1793,17.93%
-origin,OK,Oklahoma,Legal,0.0073,0.73%
-origin,OK,Oklahoma,Work,0.0054,0.54%
+origin,OK,Oklahoma,LMN,0.0073,0.73%
+origin,OK,Oklahoma,CDE,0.0115,1.15%
+origin,OK,Oklahoma,IJK,0.1793,17.93%
+origin,OK,Oklahoma,EFG,0.0343,3.43%
+origin,OK,Oklahoma,GHI,0.0054,0.54%
+origin,OK,Oklahoma,DEF,0.1083,10.83%
+origin,OK,Oklahoma,BCD,0.038,3.8%
+origin,OK,Oklahoma,KLM,0.0722,7.22%
+origin,OK,Oklahoma,JKL,0.0393,3.93%
+origin,OK,Oklahoma,FGH,0.1398,13.98%
+origin,OK,Oklahoma,MNO,0.0532,5.32%
+origin,OK,Oklahoma,ABC,0.3113,31.13%
 "",OR,Oregon,origin,0,""
-origin,OR,Oregon,Postal,0.1298,12.98%
-origin,OR,Oregon,Education,0.017,1.7%
-origin,OR,Oregon,Care,0.0575,5.75%
-origin,OR,Oregon,Money,0.0918,9.18%
-origin,OR,Oregon,Food,0.0893,8.93%
-origin,OR,Oregon,Other,0.2772,27.72%
-origin,OR,Oregon,Work,0.0059,0.59%
-origin,OR,Oregon,Housing,0.162,16.2%
-origin,OR,Oregon,Health,0.0654,6.54%
-origin,OR,Oregon,Transit,0.0393,3.93%
-origin,OR,Oregon,Goods,0.0549,5.49%
-origin,OR,Oregon,Legal,0.01,1%
+origin,OR,Oregon,GHI,0.0059,0.59%
+origin,OR,Oregon,BCD,0.0393,3.93%
+origin,OR,Oregon,FGH,0.1298,12.98%
+origin,OR,Oregon,KLM,0.0918,9.18%
+origin,OR,Oregon,MNO,0.0654,6.54%
+origin,OR,Oregon,ABC,0.2772,27.72%
+origin,OR,Oregon,IJK,0.162,16.2%
+origin,OR,Oregon,JKL,0.0549,5.49%
+origin,OR,Oregon,EFG,0.0575,5.75%
+origin,OR,Oregon,DEF,0.0893,8.93%
+origin,OR,Oregon,LMN,0.01,1%
+origin,OR,Oregon,CDE,0.017,1.7%
 "",PA,Pennsylvania,origin,0,""
-origin,PA,Pennsylvania,Food,0.1053,10.53%
-origin,PA,Pennsylvania,Legal,0.0082,0.82%
-origin,PA,Pennsylvania,Work,0.0069,0.69%
-origin,PA,Pennsylvania,Money,0.0505,5.05%
-origin,PA,Pennsylvania,Care,0.0395,3.95%
-origin,PA,Pennsylvania,Education,0.0154,1.54%
-origin,PA,Pennsylvania,Goods,0.0446,4.46%
-origin,PA,Pennsylvania,Health,0.0588,5.88%
-origin,PA,Pennsylvania,Other,0.3147,31.47%
-origin,PA,Pennsylvania,Housing,0.1547,15.47%
-origin,PA,Pennsylvania,Postal,0.1652,16.52%
-origin,PA,Pennsylvania,Transit,0.0364,3.64%
+origin,PA,Pennsylvania,BCD,0.0364,3.64%
+origin,PA,Pennsylvania,CDE,0.0154,1.54%
+origin,PA,Pennsylvania,FGH,0.1652,16.52%
+origin,PA,Pennsylvania,GHI,0.0069,0.69%
+origin,PA,Pennsylvania,EFG,0.0395,3.95%
+origin,PA,Pennsylvania,MNO,0.0588,5.88%
+origin,PA,Pennsylvania,JKL,0.0446,4.46%
+origin,PA,Pennsylvania,IJK,0.1547,15.47%
+origin,PA,Pennsylvania,KLM,0.0505,5.05%
+origin,PA,Pennsylvania,DEF,0.1053,10.53%
+origin,PA,Pennsylvania,ABC,0.3147,31.47%
+origin,PA,Pennsylvania,LMN,0.0082,0.82%
 "",PR,Puerto Rico,origin,0,""
-origin,PR,Puerto Rico,Care,0.0308,3.08%
-origin,PR,Puerto Rico,Education,0.0103,1.03%
-origin,PR,Puerto Rico,Other,0.3539,35.39%
-origin,PR,Puerto Rico,Work,0.0098,0.98%
-origin,PR,Puerto Rico,Money,0.0872,8.72%
-origin,PR,Puerto Rico,Postal,0.2113,21.13%
-origin,PR,Puerto Rico,Transit,0.0189,1.89%
-origin,PR,Puerto Rico,Food,0.0849,8.49%
-origin,PR,Puerto Rico,Legal,0.0041,0.41%
-origin,PR,Puerto Rico,Goods,0.0191,1.91%
-origin,PR,Puerto Rico,Health,0.0591,5.91%
-origin,PR,Puerto Rico,Housing,0.1107,11.07%
+origin,PR,Puerto Rico,LMN,0.0041,0.41%
+origin,PR,Puerto Rico,MNO,0.0591,5.91%
+origin,PR,Puerto Rico,DEF,0.0849,8.49%
+origin,PR,Puerto Rico,JKL,0.0191,1.91%
+origin,PR,Puerto Rico,GHI,0.0098,0.98%
+origin,PR,Puerto Rico,ABC,0.3539,35.39%
+origin,PR,Puerto Rico,IJK,0.1107,11.07%
+origin,PR,Puerto Rico,FGH,0.2113,21.13%
+origin,PR,Puerto Rico,EFG,0.0308,3.08%
+origin,PR,Puerto Rico,BCD,0.0189,1.89%
+origin,PR,Puerto Rico,CDE,0.0103,1.03%
+origin,PR,Puerto Rico,KLM,0.0872,8.72%
 "",PW,Palau,origin,0,""
-origin,PW,Palau,Other,0,0%
-origin,PW,Palau,Postal,0.75,75%
-origin,PW,Palau,Housing,0.25,25%
+origin,PW,Palau,ABC,0,0%
+origin,PW,Palau,IJK,0.25,25%
+origin,PW,Palau,FGH,0.75,75%
 "",RI,Rhode Island,origin,0,""
-origin,RI,Rhode Island,Health,0.0885,8.85%
-origin,RI,Rhode Island,Other,0.3118,31.18%
-origin,RI,Rhode Island,Housing,0.1386,13.86%
-origin,RI,Rhode Island,Food,0.0924,9.24%
-origin,RI,Rhode Island,Education,0.0331,3.31%
-origin,RI,Rhode Island,Postal,0.104,10.4%
-origin,RI,Rhode Island,Work,0.0064,0.64%
-origin,RI,Rhode Island,Care,0.0646,6.46%
-origin,RI,Rhode Island,Money,0.0683,6.83%
-origin,RI,Rhode Island,Goods,0.0501,5.01%
-origin,RI,Rhode Island,Legal,0.012,1.2%
-origin,RI,Rhode Island,Transit,0.0301,3.01%
+origin,RI,Rhode Island,MNO,0.0885,8.85%
+origin,RI,Rhode Island,EFG,0.0646,6.46%
+origin,RI,Rhode Island,CDE,0.0331,3.31%
+origin,RI,Rhode Island,LMN,0.012,1.2%
+origin,RI,Rhode Island,FGH,0.104,10.4%
+origin,RI,Rhode Island,GHI,0.0064,0.64%
+origin,RI,Rhode Island,JKL,0.0501,5.01%
+origin,RI,Rhode Island,ABC,0.3118,31.18%
+origin,RI,Rhode Island,IJK,0.1386,13.86%
+origin,RI,Rhode Island,KLM,0.0683,6.83%
+origin,RI,Rhode Island,DEF,0.0924,9.24%
+origin,RI,Rhode Island,BCD,0.0301,3.01%
 "",SC,South Carolina,origin,0,""
-origin,SC,South Carolina,Care,0.0396,3.96%
-origin,SC,South Carolina,Legal,0.0066,0.66%
-origin,SC,South Carolina,Other,0.2594,25.94%
-origin,SC,South Carolina,Work,0.0051,0.51%
-origin,SC,South Carolina,Education,0.0139,1.39%
-origin,SC,South Carolina,Health,0.0666,6.66%
-origin,SC,South Carolina,Postal,0.1573,15.73%
-origin,SC,South Carolina,Goods,0.0343,3.43%
-origin,SC,South Carolina,Food,0.111,11.1%
-origin,SC,South Carolina,Housing,0.1936,19.36%
-origin,SC,South Carolina,Transit,0.0466,4.66%
-origin,SC,South Carolina,Money,0.066,6.6%
+origin,SC,South Carolina,JKL,0.0343,3.43%
+origin,SC,South Carolina,MNO,0.0666,6.66%
+origin,SC,South Carolina,EFG,0.0396,3.96%
+origin,SC,South Carolina,ABC,0.2594,25.94%
+origin,SC,South Carolina,DEF,0.111,11.1%
+origin,SC,South Carolina,FGH,0.1573,15.73%
+origin,SC,South Carolina,LMN,0.0066,0.66%
+origin,SC,South Carolina,CDE,0.0139,1.39%
+origin,SC,South Carolina,KLM,0.066,6.6%
+origin,SC,South Carolina,IJK,0.1936,19.36%
+origin,SC,South Carolina,BCD,0.0466,4.66%
+origin,SC,South Carolina,GHI,0.0051,0.51%
 "",SD,South Dakota,origin,0,""
-origin,SD,South Dakota,Legal,0.0153,1.53%
-origin,SD,South Dakota,Postal,0.0855,8.55%
-origin,SD,South Dakota,Work,0.005,0.5%
-origin,SD,South Dakota,Food,0.0846,8.46%
-origin,SD,South Dakota,Housing,0.1174,11.74%
-origin,SD,South Dakota,Health,0.1141,11.41%
-origin,SD,South Dakota,Goods,0.0434,4.34%
-origin,SD,South Dakota,Transit,0.036,3.6%
-origin,SD,South Dakota,Money,0.1062,10.62%
-origin,SD,South Dakota,Other,0.2587,25.87%
-origin,SD,South Dakota,Education,0.0362,3.62%
-origin,SD,South Dakota,Care,0.0976,9.76%
+origin,SD,South Dakota,CDE,0.0362,3.62%
+origin,SD,South Dakota,JKL,0.0434,4.34%
+origin,SD,South Dakota,LMN,0.0153,1.53%
+origin,SD,South Dakota,IJK,0.1174,11.74%
+origin,SD,South Dakota,EFG,0.0976,9.76%
+origin,SD,South Dakota,DEF,0.0846,8.46%
+origin,SD,South Dakota,BCD,0.036,3.6%
+origin,SD,South Dakota,MNO,0.1141,11.41%
+origin,SD,South Dakota,GHI,0.005,0.5%
+origin,SD,South Dakota,FGH,0.0855,8.55%
+origin,SD,South Dakota,ABC,0.2587,25.87%
+origin,SD,South Dakota,KLM,0.1062,10.62%
 "",TN,Tennessee,origin,0,""
-origin,TN,Tennessee,Postal,0.1414,14.14%
-origin,TN,Tennessee,Goods,0.0367,3.67%
-origin,TN,Tennessee,Health,0.0693,6.93%
-origin,TN,Tennessee,Work,0.006,0.6%
-origin,TN,Tennessee,Other,0.273,27.3%
-origin,TN,Tennessee,Food,0.1156,11.56%
-origin,TN,Tennessee,Legal,0.0076,0.76%
-origin,TN,Tennessee,Housing,0.183,18.3%
-origin,TN,Tennessee,Care,0.0433,4.33%
-origin,TN,Tennessee,Money,0.0686,6.86%
-origin,TN,Tennessee,Education,0.0124,1.24%
-origin,TN,Tennessee,Transit,0.0432,4.32%
+origin,TN,Tennessee,DEF,0.1156,11.56%
+origin,TN,Tennessee,IJK,0.183,18.3%
+origin,TN,Tennessee,BCD,0.0432,4.32%
+origin,TN,Tennessee,KLM,0.0686,6.86%
+origin,TN,Tennessee,LMN,0.0076,0.76%
+origin,TN,Tennessee,ABC,0.273,27.3%
+origin,TN,Tennessee,FGH,0.1414,14.14%
+origin,TN,Tennessee,CDE,0.0124,1.24%
+origin,TN,Tennessee,GHI,0.006,0.6%
+origin,TN,Tennessee,JKL,0.0367,3.67%
+origin,TN,Tennessee,MNO,0.0693,6.93%
+origin,TN,Tennessee,EFG,0.0433,4.33%
 "",TX,Texas,origin,0,""
-origin,TX,Texas,Health,0.063,6.3%
-origin,TX,Texas,Other,0.2921,29.21%
-origin,TX,Texas,Money,0.0547,5.47%
-origin,TX,Texas,Education,0.0145,1.45%
-origin,TX,Texas,Food,0.0961,9.61%
-origin,TX,Texas,Care,0.0289,2.89%
-origin,TX,Texas,Legal,0.0079,0.79%
-origin,TX,Texas,Goods,0.035,3.5%
-origin,TX,Texas,Work,0.0077,0.77%
-origin,TX,Texas,Postal,0.1805,18.05%
-origin,TX,Texas,Housing,0.1836,18.36%
-origin,TX,Texas,Transit,0.0361,3.61%
+origin,TX,Texas,ABC,0.2921,29.21%
+origin,TX,Texas,KLM,0.0547,5.47%
+origin,TX,Texas,LMN,0.0079,0.79%
+origin,TX,Texas,MNO,0.063,6.3%
+origin,TX,Texas,FGH,0.1805,18.05%
+origin,TX,Texas,JKL,0.035,3.5%
+origin,TX,Texas,CDE,0.0145,1.45%
+origin,TX,Texas,EFG,0.0289,2.89%
+origin,TX,Texas,BCD,0.0361,3.61%
+origin,TX,Texas,DEF,0.0961,9.61%
+origin,TX,Texas,GHI,0.0077,0.77%
+origin,TX,Texas,IJK,0.1836,18.36%
 "",UT,Utah,origin,0,""
-origin,UT,Utah,Food,0.0984,9.84%
-origin,UT,Utah,Money,0.0754,7.54%
-origin,UT,Utah,Other,0.2597,25.97%
-origin,UT,Utah,Goods,0.0288,2.88%
-origin,UT,Utah,Care,0.0592,5.92%
-origin,UT,Utah,Health,0.0925,9.25%
-origin,UT,Utah,Housing,0.1481,14.81%
-origin,UT,Utah,Transit,0.0331,3.31%
-origin,UT,Utah,Legal,0.013,1.3%
-origin,UT,Utah,Work,0.0087,0.87%
-origin,UT,Utah,Postal,0.1561,15.61%
-origin,UT,Utah,Education,0.027,2.7%
+origin,UT,Utah,MNO,0.0925,9.25%
+origin,UT,Utah,DEF,0.0984,9.84%
+origin,UT,Utah,FGH,0.1561,15.61%
+origin,UT,Utah,KLM,0.0754,7.54%
+origin,UT,Utah,JKL,0.0288,2.88%
+origin,UT,Utah,ABC,0.2597,25.97%
+origin,UT,Utah,CDE,0.027,2.7%
+origin,UT,Utah,LMN,0.013,1.3%
+origin,UT,Utah,IJK,0.1481,14.81%
+origin,UT,Utah,BCD,0.0331,3.31%
+origin,UT,Utah,GHI,0.0087,0.87%
+origin,UT,Utah,EFG,0.0592,5.92%
 "",VA,Virginia,origin,0,""
-origin,VA,Virginia,Health,0.0672,6.72%
-origin,VA,Virginia,Housing,0.1786,17.86%
-origin,VA,Virginia,Food,0.1042,10.42%
-origin,VA,Virginia,Education,0.0234,2.34%
-origin,VA,Virginia,Care,0.0501,5.01%
-origin,VA,Virginia,Money,0.0619,6.19%
-origin,VA,Virginia,Transit,0.036,3.6%
-origin,VA,Virginia,Postal,0.1402,14.02%
-origin,VA,Virginia,Legal,0.0089,0.89%
-origin,VA,Virginia,Other,0.282,28.2%
-origin,VA,Virginia,Work,0.0077,0.77%
-origin,VA,Virginia,Goods,0.0398,3.98%
+origin,VA,Virginia,IJK,0.1786,17.86%
+origin,VA,Virginia,BCD,0.036,3.6%
+origin,VA,Virginia,FGH,0.1402,14.02%
+origin,VA,Virginia,DEF,0.1042,10.42%
+origin,VA,Virginia,ABC,0.282,28.2%
+origin,VA,Virginia,LMN,0.0089,0.89%
+origin,VA,Virginia,GHI,0.0077,0.77%
+origin,VA,Virginia,CDE,0.0234,2.34%
+origin,VA,Virginia,KLM,0.0619,6.19%
+origin,VA,Virginia,EFG,0.0501,5.01%
+origin,VA,Virginia,MNO,0.0672,6.72%
+origin,VA,Virginia,JKL,0.0398,3.98%
 "",VI,Virgin Islands,origin,0,""
-origin,VI,Virgin Islands,Health,0.079,7.9%
-origin,VI,Virgin Islands,Other,0.2215,22.15%
-origin,VI,Virgin Islands,Food,0.1024,10.24%
-origin,VI,Virgin Islands,Care,0.0229,2.29%
-origin,VI,Virgin Islands,Legal,0.0062,0.62%
-origin,VI,Virgin Islands,Postal,0.3023,30.23%
-origin,VI,Virgin Islands,Goods,0.0151,1.51%
-origin,VI,Virgin Islands,Work,0.0059,0.59%
-origin,VI,Virgin Islands,Money,0.0837,8.37%
-origin,VI,Virgin Islands,Education,0.0128,1.28%
-origin,VI,Virgin Islands,Housing,0.114,11.4%
-origin,VI,Virgin Islands,Transit,0.0341,3.41%
+origin,VI,Virgin Islands,KLM,0.0837,8.37%
+origin,VI,Virgin Islands,FGH,0.3023,30.23%
+origin,VI,Virgin Islands,IJK,0.114,11.4%
+origin,VI,Virgin Islands,MNO,0.079,7.9%
+origin,VI,Virgin Islands,GHI,0.0059,0.59%
+origin,VI,Virgin Islands,DEF,0.1024,10.24%
+origin,VI,Virgin Islands,ABC,0.2215,22.15%
+origin,VI,Virgin Islands,LMN,0.0062,0.62%
+origin,VI,Virgin Islands,BCD,0.0341,3.41%
+origin,VI,Virgin Islands,EFG,0.0229,2.29%
+origin,VI,Virgin Islands,CDE,0.0128,1.28%
+origin,VI,Virgin Islands,JKL,0.0151,1.51%
 "",VT,Vermont,origin,0,""
-origin,VT,Vermont,Education,0.0525,5.25%
-origin,VT,Vermont,Legal,0.0203,2.03%
-origin,VT,Vermont,Postal,0.0904,9.04%
-origin,VT,Vermont,Food,0.0855,8.55%
-origin,VT,Vermont,Care,0.1338,13.38%
-origin,VT,Vermont,Health,0.1528,15.28%
-origin,VT,Vermont,Housing,0.0928,9.28%
-origin,VT,Vermont,Other,0.1987,19.87%
-origin,VT,Vermont,Goods,0.0261,2.61%
-origin,VT,Vermont,Work,0.008,0.8%
-origin,VT,Vermont,Transit,0.0324,3.24%
-origin,VT,Vermont,Money,0.1065,10.65%
+origin,VT,Vermont,IJK,0.0928,9.28%
+origin,VT,Vermont,LMN,0.0203,2.03%
+origin,VT,Vermont,BCD,0.0324,3.24%
+origin,VT,Vermont,GHI,0.008,0.8%
+origin,VT,Vermont,KLM,0.1065,10.65%
+origin,VT,Vermont,DEF,0.0855,8.55%
+origin,VT,Vermont,EFG,0.1338,13.38%
+origin,VT,Vermont,MNO,0.1528,15.28%
+origin,VT,Vermont,ABC,0.1987,19.87%
+origin,VT,Vermont,JKL,0.0261,2.61%
+origin,VT,Vermont,FGH,0.0904,9.04%
+origin,VT,Vermont,CDE,0.0525,5.25%
 "",WA,Washington,origin,0,""
-origin,WA,Washington,Postal,0.137,13.7%
-origin,WA,Washington,Health,0.07,7%
-origin,WA,Washington,Other,0.2885,28.85%
-origin,WA,Washington,Money,0.0658,6.58%
-origin,WA,Washington,Food,0.0792,7.92%
-origin,WA,Washington,Care,0.0525,5.25%
-origin,WA,Washington,Education,0.0228,2.28%
-origin,WA,Washington,Transit,0.0419,4.19%
-origin,WA,Washington,Work,0.0067,0.67%
-origin,WA,Washington,Housing,0.174,17.4%
-origin,WA,Washington,Goods,0.0504,5.04%
-origin,WA,Washington,Legal,0.0113,1.13%
+origin,WA,Washington,KLM,0.0658,6.58%
+origin,WA,Washington,ABC,0.2885,28.85%
+origin,WA,Washington,MNO,0.07,7%
+origin,WA,Washington,FGH,0.137,13.7%
+origin,WA,Washington,EFG,0.0525,5.25%
+origin,WA,Washington,DEF,0.0792,7.92%
+origin,WA,Washington,LMN,0.0113,1.13%
+origin,WA,Washington,IJK,0.174,17.4%
+origin,WA,Washington,JKL,0.0504,5.04%
+origin,WA,Washington,GHI,0.0067,0.67%
+origin,WA,Washington,BCD,0.0419,4.19%
+origin,WA,Washington,CDE,0.0228,2.28%
 "",WI,Wisconsin,origin,0,""
-origin,WI,Wisconsin,Legal,0.0087,0.87%
-origin,WI,Wisconsin,Postal,0.1236,12.36%
-origin,WI,Wisconsin,Other,0.3756,37.56%
-origin,WI,Wisconsin,Food,0.0826,8.26%
-origin,WI,Wisconsin,Money,0.0595,5.95%
-origin,WI,Wisconsin,Housing,0.1386,13.86%
-origin,WI,Wisconsin,Care,0.0462,4.62%
-origin,WI,Wisconsin,Transit,0.0398,3.98%
-origin,WI,Wisconsin,Work,0.0057,0.57%
-origin,WI,Wisconsin,Health,0.0571,5.71%
-origin,WI,Wisconsin,Education,0.0129,1.29%
-origin,WI,Wisconsin,Goods,0.0496,4.96%
+origin,WI,Wisconsin,FGH,0.1236,12.36%
+origin,WI,Wisconsin,MNO,0.0571,5.71%
+origin,WI,Wisconsin,EFG,0.0462,4.62%
+origin,WI,Wisconsin,CDE,0.0129,1.29%
+origin,WI,Wisconsin,ABC,0.3756,37.56%
+origin,WI,Wisconsin,DEF,0.0826,8.26%
+origin,WI,Wisconsin,KLM,0.0595,5.95%
+origin,WI,Wisconsin,JKL,0.0496,4.96%
+origin,WI,Wisconsin,LMN,0.0087,0.87%
+origin,WI,Wisconsin,GHI,0.0057,0.57%
+origin,WI,Wisconsin,BCD,0.0398,3.98%
+origin,WI,Wisconsin,IJK,0.1386,13.86%
 "",WV,West Virginia,origin,0,""
-origin,WV,West Virginia,Care,0.054,5.4%
-origin,WV,West Virginia,Education,0.0187,1.87%
-origin,WV,West Virginia,Legal,0.0073,0.73%
-origin,WV,West Virginia,Postal,0.1549,15.49%
-origin,WV,West Virginia,Money,0.0593,5.93%
-origin,WV,West Virginia,Goods,0.0375,3.75%
-origin,WV,West Virginia,Other,0.295,29.5%
-origin,WV,West Virginia,Health,0.0726,7.26%
-origin,WV,West Virginia,Work,0.006,0.6%
-origin,WV,West Virginia,Housing,0.1455,14.55%
-origin,WV,West Virginia,Food,0.1087,10.87%
-origin,WV,West Virginia,Transit,0.0407,4.07%
+origin,WV,West Virginia,KLM,0.0593,5.93%
+origin,WV,West Virginia,EFG,0.054,5.4%
+origin,WV,West Virginia,ABC,0.295,29.5%
+origin,WV,West Virginia,LMN,0.0073,0.73%
+origin,WV,West Virginia,JKL,0.0375,3.75%
+origin,WV,West Virginia,IJK,0.1455,14.55%
+origin,WV,West Virginia,GHI,0.006,0.6%
+origin,WV,West Virginia,MNO,0.0726,7.26%
+origin,WV,West Virginia,CDE,0.0187,1.87%
+origin,WV,West Virginia,DEF,0.1087,10.87%
+origin,WV,West Virginia,BCD,0.0407,4.07%
+origin,WV,West Virginia,FGH,0.1549,15.49%
 "",WY,Wyoming,origin,0,""
-origin,WY,Wyoming,Transit,0.0322,3.22%
-origin,WY,Wyoming,Education,0.0491,4.91%
-origin,WY,Wyoming,Work,0.0054,0.54%
-origin,WY,Wyoming,Care,0.1257,12.57%
-origin,WY,Wyoming,Food,0.0778,7.78%
-origin,WY,Wyoming,Other,0.2002,20.02%
-origin,WY,Wyoming,Money,0.1296,12.96%
-origin,WY,Wyoming,Goods,0.0264,2.64%
-origin,WY,Wyoming,Health,0.1559,15.59%
-origin,WY,Wyoming,Postal,0.0673,6.73%
-origin,WY,Wyoming,Housing,0.1081,10.81%
-origin,WY,Wyoming,Legal,0.0223,2.23%
+origin,WY,Wyoming,IJK,0.1081,10.81%
+origin,WY,Wyoming,FGH,0.0673,6.73%
+origin,WY,Wyoming,JKL,0.0264,2.64%
+origin,WY,Wyoming,ABC,0.2002,20.02%
+origin,WY,Wyoming,GHI,0.0054,0.54%
+origin,WY,Wyoming,DEF,0.0778,7.78%
+origin,WY,Wyoming,EFG,0.1257,12.57%
+origin,WY,Wyoming,MNO,0.1559,15.59%
+origin,WY,Wyoming,BCD,0.0322,3.22%
+origin,WY,Wyoming,KLM,0.1296,12.96%
+origin,WY,Wyoming,CDE,0.0491,4.91%
+origin,WY,Wyoming,LMN,0.0223,2.23%
