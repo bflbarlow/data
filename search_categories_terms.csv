@@ -1,4 +1,4 @@
-parent,state_code,state,category,term,state_category_percentage,state_category_percentage_label,state_term_percentage,state_term_percentage_label
+parent,state_code,state,category,term,state_percentage,state_percentage_percentage_label,state_term_percentage,state_term_percentage_label
 origin,All,All,Care,538 other terms,,,0.5298,52.980000000000004%
 origin,All,All,Care,animal welfare,,,0.0812,8.12%
 origin,All,All,Care,navigating the system,,,0.0625,6.25%
